@@ -1,0 +1,20 @@
+########################################################################################################################
+#
+#Makefile 
+# Compila los programas cliente y servidor del ejercicio de comunicación entre procesos usando Pipes con nombre (FIFO).
+#######################################################################################################################
+
+GCC = gcc
+FLAGS =
+MODULO =
+
+PROGRAMAS= cliente servidor
+
+cliente:
+	$(GCC) $@.c -o $@
+
+servidor:
+	$(GCC) $@.c -o $@
+
+clean:
+	$(RM) $(PROGRAMAS) 
