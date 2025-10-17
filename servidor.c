@@ -1,6 +1,6 @@
 /*******************************************************************************************************
-*               Pontificia Universidad Javeriana
-*                           ----------                                                                  *
+*                                     Pontificia Universidad Javeriana
+*                                                ----------                                             *
 *       Autor: Danna Gabriela Rojas Bernal                                                              *
 *       Fecha: 16 Octubre de 2025                                                                       *
 *       Docente: J. Corredor                                                                            *
