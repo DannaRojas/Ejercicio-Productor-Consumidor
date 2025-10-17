@@ -2,7 +2,7 @@
 *               Pontificia Universidad Javeriana
 *                           ----------                                                                  *
 *       Autor: Danna Gabriela Rojas Bernal                                                              *
-*       Fecha: 10 Octubre de 2025                                                                       *
+*       Fecha: 16 Octubre de 2025                                                                       *
 *       Docente: J. Corredor                                                                            *
 *       Materia: Sistemas Operativos                                                                    *
 *       Tema: Implementación de Productor Consumidor a partir de Pipe Named                             *
@@ -85,3 +85,4 @@ int main() {
    // Retorna 0 indicando terminación exitosa del programa
    return 0;
 }
+
